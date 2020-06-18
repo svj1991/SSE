@@ -11,7 +11,7 @@ Copyright © 2020, University of Illinois at Urbana Champaign. All rights reserv
 
 Developed by:
 
-Yu-Che Jeffrey Wang, Shrikant Venkataramani, Paris Smaragdis
+Yu-Che Jeffrey Wang (https://github.com/jeffreyjeffreywang), Shrikant Venkataramani, Paris Smaragdis
 
 University of Illinois at Urbana-Champaign, Adobe Research
 

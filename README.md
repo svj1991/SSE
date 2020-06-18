@@ -37,8 +37,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ### Links
 The paper is available [here]
 
-Speech enhancement examples are available [here]
-
 ### Commands
 Run the following commands in the terminal for running the code:
 
